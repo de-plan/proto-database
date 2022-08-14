@@ -10,7 +10,7 @@
     "features": [{
         "type": "Feature",
         "properties": {
-            "photo": "/Users/akshay/Desktop/proto/img/2.jpg",
+            "photo": "https://raw.githubusercontent.com/de-plan/proto-api-test/1d46d49e22a5364b651aeace798d44f5e185f05a/2.jpg",
             "filename": "2",
             "longitude": "72.87868055555555",
             "latitude": "19.08042222222222",
