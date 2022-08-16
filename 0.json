@@ -19,7 +19,8 @@
             "symbol": "pGeo",
             "description": "proto's first collection of geolocated NFT's",
             "sell_fee_bp": 1000,
-            "collection_name": "proto GeoNFT"
+            "collection_name": "proto GeoNFT",
+            "ID": "HsizaR7fF5nert9RLcs4S7mMRYBZcyH6p2c4GP7x2Dz"
         },
         "geometry": {
             "type": "Point",
