@@ -10,11 +10,11 @@
     "features": [{
         "type": "Feature",
         "properties": {
-            "photo": "https://raw.githubusercontent.com/de-plan/proto-api-test/1d46d49e22a5364b651aeace798d44f5e185f05a/6.jpg",
+            "photo": "https://raw.githubusercontent.com/de-plan/proto-database/main/6.jpg",
             "filename": "6",
-            "longitude": "77.60467580555554",
-            "latitude": "12.973691444444444",
-            "mint_radius": 5000,
+            "longitude": "2.1744098558136433",
+            "latitude": "41.403518527981",
+            "mint_radius": 10000,
             "name": "proto #06",
             "symbol": "pGeo",
             "description": "proto's first collection of geolocated NFT's",
@@ -24,8 +24,8 @@
         "geometry": {
             "type": "Point",
             "coordinates": [
-                77.604675805555544,
-                12.973691444444444,
+                2.1744098558136433,
+                41.403518527981,
                 0.0
             ]
         }

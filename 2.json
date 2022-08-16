@@ -10,10 +10,10 @@
     "features": [{
         "type": "Feature",
         "properties": {
-            "photo": "https://raw.githubusercontent.com/de-plan/proto-api-test/1d46d49e22a5364b651aeace798d44f5e185f05a/2.jpg",
+            "photo": "https://raw.githubusercontent.com/de-plan/proto-database/main/2.jpg",
             "filename": "2",
-            "longitude": "72.87868055555555",
-            "latitude": "19.08042222222222",
+            "longitude": "-73.98568668109633",
+            "latitude": "40.75777724742089",
             "mint_radius": 10000,
             "name": "proto #02",
             "symbol": "pGeo",
@@ -23,9 +23,8 @@
         },
         "geometry": {
             "type": "Point",
-            "coordinates": [
-                72.878680555555547,
-                19.080422222222222,
+            "coordinates": [-73.98568668109633,
+                40.75777724742089,
                 0.0
             ]
         }
